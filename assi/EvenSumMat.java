@@ -16,11 +16,11 @@ public class EvenSumMat {
 //				if(mat[r][c]%2==0)
 //				{
 //					total = total + mat[r][c];
-////					System.out.println(mat[r][c]);
-//					System.out.println(total);
+//					
 //				}
 //				
 //			}
+//			System.out.println(total);
 //		}
 		
 		
