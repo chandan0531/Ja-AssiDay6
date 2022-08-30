@@ -20,7 +20,7 @@ public class CommandLine {
 			int n2 = Integer.parseInt(args[1]);
 			int num = Math.abs(n1-n2);
 			
-			for(int j=1; j<=num; j++)
+			for(int j=1; j<= num; j++)
 			{
 				factorial2 = factorial2 *j;
 			}
