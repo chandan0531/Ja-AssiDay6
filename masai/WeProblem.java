@@ -15,7 +15,7 @@ public class WeProblem {
 	// we problem
 		//compare total and average.
 		
-		int[] age = {34,56,23,87,90};
+		int[] age = {34,56,23,87,90,60};
 		
 		int total = 0;
 		int average = 0; // or double
